@@ -25,5 +25,8 @@ This is a simple and elegant tribute webpage dedicated to Dr. A.P.J. Abdul Kalam
 - Responsive image handling
 - Writing clean, maintainable code
 
+## Web Page
+file:///C:/Users/q/Documents/internship/tribute.html
+
 
 Inspired by the greatness of Dr. Kalam ✨
